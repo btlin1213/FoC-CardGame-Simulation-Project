@@ -1,3 +1,5 @@
+# THIS IS A SAMPLE SOLUTION PROVIDED TO US BY THE TEACHING STAFF 
+
 import itertools
 import math
 
